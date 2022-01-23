@@ -1,2 +1,2 @@
 /yayinci/*
-  authority: 'netlify-ogreniyorum.netlify.app/yayinci/'
+  path: yayinci/:splat
