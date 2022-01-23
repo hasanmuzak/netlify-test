@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/yayinci/*"
+  to = "http://http://207.154.200.52:4446/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
