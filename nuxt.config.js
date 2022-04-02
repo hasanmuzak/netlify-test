@@ -31,7 +31,7 @@ export default {
   buildModules: ["@nuxtjs/tailwindcss"],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxtjs/redirect-module"],
+  modules: [],
   router: { trailingSlash: true } ,
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
