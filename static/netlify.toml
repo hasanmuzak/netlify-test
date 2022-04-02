@@ -1,5 +1,5 @@
 [[redirects]]
-    from = "/deneme/"
+    from = "/deneme?ltcid=dedene"
     to = "/merhaba/"
     status = 301
     force = true
