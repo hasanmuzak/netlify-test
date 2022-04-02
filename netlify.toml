@@ -3,7 +3,7 @@
 
 [[redirects]]
     from = "/deneme/"
-    to = "/.netlify/functions/redirect/?ltcid=:ltcid"
+    to = "/.netlify/functions/redirect"
     query = {ltcid = ":ltcid"}
     status = 301
     force = true
