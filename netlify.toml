@@ -5,5 +5,5 @@
     from = "/deneme/"
     to = "/sayfa-bulunamadi"
     query = {ltcid = ":ltcid"}
-    status = 404
+    status = 301
     force = true
