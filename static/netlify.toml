@@ -1,5 +1,6 @@
 [[redirects]]
-    from = "/deneme/?ltcid=dedene"
+    from = "/deneme/"
     to = "/merhaba/"
+    query = {ltcid = ":ltcid"}
     status = 301
     force = true
