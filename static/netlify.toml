@@ -1,6 +1,9 @@
+[build]
+    functions = "netlify/functions/"
+
 [[redirects]]
     from = "/deneme/"
-    to = "/merhaba/"
+    to = "/.netlify/functions/redirect/?ltcid=:ltcid"
     query = {ltcid = ":ltcid"}
     status = 301
     force = true
